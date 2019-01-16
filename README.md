@@ -84,7 +84,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-**Sai Kiran**
+*_Sai Kiran_*
 
 S534686@nwmissouri.edu
 
