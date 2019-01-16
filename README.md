@@ -88,8 +88,6 @@ Denise Case
 
 S534686@nwmissouri.edu
 
-## New Section
-
-###44563
+## My Section
 
 ![Hosted image](https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fwinteriscoming.net%2Ffiles%2F2017%2F05%2Frehost2F20162F92F142Feb52b269-15bc-40f5-a22a-405dca3c45fd.jpg&w=850&h=560&c=sc "Lynx Kitten")
