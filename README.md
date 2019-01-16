@@ -86,7 +86,7 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 Denise Case
 
-dcase@nwmissouri.edu
+S534686@nwmissouri.edu
 
 ## New Section
 
