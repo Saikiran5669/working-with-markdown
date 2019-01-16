@@ -91,3 +91,7 @@ S534686@nwmissouri.edu
 ## My Section
 
 ![Hosted image](https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fwinteriscoming.net%2Ffiles%2F2017%2F05%2Frehost2F20162F92F142Feb52b269-15bc-40f5-a22a-405dca3c45fd.jpg&w=850&h=560&c=sc "Lynx Kitten")
+
+## New 
+
+![Hosted image](https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/d/d3/Flawless_Technique_Super_Saiyan_Goku_%28Angel%29.png/revision/latest/scale-to-width-down/250?cb=20180316162130 "goku")
